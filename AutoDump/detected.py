@@ -14,6 +14,6 @@ embed.set_image('https://bestanimations.com/Flags/Canada/canada-flag-animated-gi
 
 embed.set_footer(text="Attack Detected")
 
-hook = Webhook('https://discord.com/api/webhooks/894757651223822347/a2TRRca5ylOHxoO0squg7PVXd22wEz-8uHm8wKJ1MO8YUHf174a8f09TuOHFzn71I2tm')
+hook = Webhook('https://canary.discord.com/api/webhooks/944698101506121788/5-20_5tXrKrS0zD76MNxwGXndsU7kt-ire6EY7M2CboweCTvAlPrIoLouTr5NBGlDeMN')
 
 hook.send(embed=embed)
